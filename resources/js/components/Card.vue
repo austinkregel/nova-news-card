@@ -35,7 +35,6 @@
                     </button>
                 </div>
             </div>
-            <!--<div>{{ stories }}</div>-->
         </div>
     </card>
 </template>

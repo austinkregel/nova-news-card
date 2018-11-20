@@ -1,7 +1,7 @@
 # A Nova card to give you news information
-Redis based storage, and powered by [darksky.net](https://darksky.net)
+Redis based storage, and pwoered by [newsapi.org](https://newsapi.org)
 
-All you will need is a developer token from darksky, and predis for key persistence.
+All you will need is a developer token from newsapi.org, and predis for key persistence.
 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/kregel/nova-news-card.svg?style=flat-square)](https://packagist.org/packages/kregel/kregel/nova-news-card)
